@@ -58,7 +58,7 @@ class _AddNotesState extends State<updateNotesPage> {
             crossAxisAlignment: CrossAxisAlignment.center,
             children: [
               SizedBox(
-                height: 50,
+                height: 40,
               ),
               Text(
                 "update Your Note",
